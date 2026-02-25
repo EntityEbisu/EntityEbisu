@@ -48,9 +48,29 @@ _August 2024 - December 2024 (Part-time)_
 - Ensured data quality and extracted required formats to prepare training
   datasets for machine learning models.
 
+#### **AI Engineer Intern at FPT Software**
+
+_December 2025 - Now_
+
+- Processed and marked diverse data objects and images using specialized tools, adhering
+  to precise guidelines for AI system input.
+- Ensured data quality and extracted required formats, serving as crucial input for intelligent automatic systems.
+- Contributed directly to the preparation of training datasets for machine learning models.
+
 ---
 
 ### 🚀 Projects
+
+#### **VLM-Based Multilingual OCR Inference System**
+
+_Technologies:_ `PyTorch` `Transformers` `FastAPI` `pypdfium2` `Pillow`
+`Docker` `Linux` `Conda`
+
+Developed an experimental multilingual OCR pipeline during my AI Engineer internship, benchmarking
+lightweight Vision-Language Models under resource constraints and implementing a production-style
+FastAPI/PyTorch inference API. Built an end-to-end workflow converting PDFs to structured text 
+and containerized the setup with Docker for reproducibility.
+- **[GitHub Repository](https://github.com/EntityEbisu/vlm-ocr-api)**
 
 #### **Motorbike Detection with YOLOv8 & Streamlit**
 
@@ -85,16 +105,6 @@ with histograms, box plots, scatter plots, and correlograms.
 
 - **[Live Demo](https://entityebisu.shinyapps.io/Data_Exploration_Mtcars_with_R_Shiny/)**
 - **[GitHub Repository](https://github.com/EntityEbisu/shiny-mtcars-data-dashboard)**
-
-#### **IBM Data Engineering Capstone Project Replication**
-
-_Technologies:_ `Docker` `MySQL` `Python (Pandas)` `SQL` `Bash`
-
-Simulated cloud-based data pipelines using containerization and Python
-scripting. This project demonstrates an understanding of fundamental ETL
-processes, data warehousing, and containerization concepts.
-
-- **[GitHub Repository](https://github.com/EntityEbisu/IBM-Data-Engineering-Capstone-Project)**
 
 ---
 
