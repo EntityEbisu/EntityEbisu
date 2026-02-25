@@ -113,7 +113,7 @@ with histograms, box plots, scatter plots, and correlograms.
 |      **AI/ML**       | `TensorFlow` `Keras` `PyTorch` `Scikit-learn` `Ultralytics (YOLOv8)` `OpenCV` |
 | **Data & Databases** | `SQL` `MySQL` `PostgreSQL` `MongoDB` `Pandas` `NumPy` `Matplotlib` `Seaborn`  |
 |      **DevOps**      | `Docker` `Kubernetes` `Git` `GitHub`                                          |
-|    **Frameworks**    | `Flask` `Flask` `Streamlit` `R Shiny`                                         |
+|    **Frameworks**    | `FastAPI` `Flask` `Streamlit` `R Shiny`                                         |
 
 </div>
 
