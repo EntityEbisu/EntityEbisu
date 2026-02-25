@@ -28,7 +28,16 @@
 
 ### 💼 Work Experience
 
-#### **Image Data Processing Collaborator at INFINIQ Vietnam Co., Ltd**
+#### **AI Engineer Intern at FPT Software**
+
+_December 2025 - Now_
+
+- Processed and marked diverse data objects and images using specialized tools, adhering
+  to precise guidelines for AI system input.
+- Ensured data quality and extracted required formats, serving as crucial input for intelligent automatic systems.
+- Contributed directly to the preparation of training datasets for machine learning models.
+
+#### **Image Data Processing Collaborator at INFINIQ Vietnam Co., Ltd & TEKTRA TECHNOLOGY & TRADING**
 
 _January 2024 - September 2024 (Remote)_
 
@@ -38,24 +47,10 @@ _January 2024 - September 2024 (Remote)_
   integrity.
 - Contributed to real-world traffic data projects (vehicles, pedestrians,
   obstacles).
-
-#### **Data Labelling Staff at TEKTRA TECHNOLOGY & TRADING**
-
-_August 2024 - December 2024 (Part-time)_
-
 - Processed and marked diverse data objects and images using specialized tools,
   adhering to precise guidelines for AI system input.
 - Ensured data quality and extracted required formats to prepare training
   datasets for machine learning models.
-
-#### **AI Engineer Intern at FPT Software**
-
-_December 2025 - Now_
-
-- Processed and marked diverse data objects and images using specialized tools, adhering
-  to precise guidelines for AI system input.
-- Ensured data quality and extracted required formats, serving as crucial input for intelligent automatic systems.
-- Contributed directly to the preparation of training datasets for machine learning models.
 
 ---
 
