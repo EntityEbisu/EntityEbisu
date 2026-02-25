@@ -109,11 +109,11 @@ with histograms, box plots, scatter plots, and correlograms.
 
 |       Category       | Skills                                                                        |
 | :------------------: | :---------------------------------------------------------------------------- |
-|    **Languages**     | `Python` `JavaScript` `R` `Bash` `HTML` `CSS`                                 |
+|    **Languages**     | `Python` `JavaScript` `R` `HTML` `CSS`                                        |
 |      **AI/ML**       | `TensorFlow` `Keras` `PyTorch` `Scikit-learn` `Ultralytics (YOLOv8)` `OpenCV` |
 | **Data & Databases** | `SQL` `MySQL` `PostgreSQL` `MongoDB` `Pandas` `NumPy` `Matplotlib` `Seaborn`  |
 |      **DevOps**      | `Docker` `Kubernetes` `Git` `GitHub`                                          |
-|    **Frameworks**    | `Flask` `Django` `Streamlit` `R Shiny`                                        |
+|    **Frameworks**    | `Flask` `Flask` `Streamlit` `R Shiny`                                         |
 
 </div>
 
