@@ -4,7 +4,7 @@
 
 ### AI/Data Engineer Student
 
-![GitHub Profile Banner](https://img.shields.io/badge/Hello-I'm%20an%20AI%2FData%20Engineer%20Intern-blue?style=for-the-badge&logo=github)
+![GitHub Profile Banner]([https://img.shields.io/badge/Hello-I'm%20an%20AI%2FData%20Engineer%20Intern-blue?style=for-the-badge&logo=github](https://img.shields.io/badge/Building-Agentic%20AI%20%7C%20RAG%20%7C%20CV-blueviolet?style=for-the-badge&logo=github))
 
 </div>
 
