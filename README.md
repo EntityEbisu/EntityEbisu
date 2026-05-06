@@ -30,7 +30,7 @@
 
 #### **AI Engineer Intern at FPT Software**
 
-_December 2025 - April 2025_
+_December 2025 - April 2026_
 
 - Processed and marked diverse data objects and images using specialized tools, adhering
   to precise guidelines for AI system input.
