@@ -4,7 +4,8 @@
 
 ### AI Engineer | Machine Learning · Agent Systems · RAG · Computer Vision
 
-[![GitHub Profile Banner](https://img.shields.io/badge/Hello-I'm%20an%20AI%2FData%20Engineer%20Intern-blue?style=for-the-badge&logo=github)](https://img.shields.io/badge/Building-Agentic%20AI%20%7C%20RAG%20%7C%20CV-blueviolet?style=for-the-badge&logo=github)
+![GitHub Profile Banner](https://img.shields.io/badge/Building-Agentic%20AI%20%7C%20RAG%20%7C%20CV-blueviolet?style=for-the-badge\&logo=github)
+
 </div>
 
 ---
@@ -14,12 +15,9 @@
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/minh-nguyễn-trọng-75a324246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/ebisua"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:tminh193.bil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.topcv.vn/xem-cv/V1cFUlAGAVJVDg4HClIAWwxQUg1WVQBRB1gDAAd270"><img src="https://img.shields.io/badge/My%20Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"/></a>
+    <a href="https://www.kaggle.com/ebisua"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a>
+    <a href="mailto:tminh193.bil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+    <a href="https://www.topcv.vn/xem-cv/V1cFUlAGAVJVDg4HClIAWwxQUg1WVQBRB1gDAAd270"><img src="https://img.shields.io/badge/My%20Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"/></a>
 
 </div>
 
@@ -29,92 +27,63 @@
 
 #### **AI Engineer Intern at FPT Software**
 
-_December 2025 - April 2026_
+*December 2025 - April 2026*
 
-- Processed and marked diverse data objects and images using specialized tools, adhering
-  to precise guidelines for AI system input.
-- Ensured data quality and extracted required formats, serving as crucial input for intelligent automatic systems.
-- Contributed directly to the preparation of training datasets for machine learning models.
+* Processed and prepared diverse datasets for AI training workflows
+* Ensured annotation quality and structured data integrity for model development
+* Supported data preparation pipelines for intelligent automation systems
 
 #### **Image Data Processing Collaborator at INFINIQ Vietnam Co., Ltd & TEKTRA TECHNOLOGY & TRADING**
 
-_January 2024 - September 2024 (Remote)_
+*January 2024 - September 2024 (Remote)*
 
-- Performed 2D/3D object drawing and labeling for image datasets, supporting
-  computer vision and AI model development.
-- Refined AI-generated bounding boxes to ensure high accuracy and data
-  integrity.
-- Contributed to real-world traffic data projects (vehicles, pedestrians,
-  obstacles).
-- Processed and marked diverse data objects and images using specialized tools,
-  adhering to precise guidelines for AI system input.
-- Ensured data quality and extracted required formats to prepare training
-  datasets for machine learning models.
+* Performed 2D/3D object annotation for computer vision datasets
+* Refined AI-generated labels to improve dataset quality and consistency
+* Contributed to real-world traffic scene datasets involving vehicles, pedestrians, and obstacles
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
 #### **Agentic Conversational AI System for E-commerce Support**
 
-_Technologies:_ `FastAPI` `Python` `LLMs` `RAG` `ChromaDB` `HuggingFace Embeddings` `Streamlit` `SQLite` `Docker`
+*Technologies:* `Python` `FastAPI` `RAG` `LLMs` `ChromaDB` `HuggingFace` `Streamlit` `SQLite` `Docker`
 
-Designed and built a modular conversational AI system simulating an e-commerce support assistant with deterministic agent routing, multi-turn memory, and retrieval-augmented generation (RAG). Implemented structured order verification workflows, document-grounded question answering, session persistence, and observability pipelines with production-oriented architecture for scalability and deployment.
+Built a modular conversational AI system for e-commerce customer support with deterministic agent workflows, multi-turn memory, and retrieval-augmented generation (RAG). Designed structured order verification flows, grounded document retrieval, and observability pipelines with production-oriented architecture.
 
-Key features:
-- Built a deterministic agent workflow using state-machine-based slot collection and validation
-- Implemented RAG pipeline with document chunking, embeddings, vector retrieval, and grounded generation
-- Developed FastAPI streaming APIs and Streamlit monitoring dashboard
-- Integrated SQLite-based conversation persistence and structured observability logging
-- Designed extensible deployment strategy with Docker and CI/CD readiness
+* **[GitHub Repository](https://github.com/EntityEbisu/ai-agent-system)**
+* **[Demo Video (Vietnamese)](https://drive.google.com/file/d/1W2dSLgPNfV5QncPiIsaLtiA7A6l-DTyS/view?usp=sharing)**
 
-- **[GitHub Repository](https://github.com/EntityEbisu/ai-agent-system)**
-- **[Demo Video (FYI: It is in Vietnamese)](https://drive.google.com/file/d/1W2dSLgPNfV5QncPiIsaLtiA7A6l-DTyS/view?usp=sharing)**
+---
 
 #### **VLM-Based Multilingual OCR Inference System**
 
-_Technologies:_ `PyTorch` `Transformers` `FastAPI` `pypdfium2` `Pillow`
-`Docker` `Linux` `Conda`
+*Technologies:* `PyTorch` `Transformers` `FastAPI` `pypdfium2` `Pillow` `Docker`
 
-Developed an experimental multilingual OCR pipeline during my AI Engineer internship, benchmarking
-lightweight Vision-Language Models under resource constraints and implementing a production-style
-FastAPI/PyTorch inference API. Built an end-to-end workflow converting PDFs to structured text 
-and containerized the setup with Docker for reproducibility.
-- **[GitHub Repository](https://github.com/EntityEbisu/vlm-ocr-api)**
+Developed an experimental multilingual OCR pipeline benchmarking lightweight Vision-Language Models under resource constraints and implementing a production-style FastAPI/PyTorch inference API. Built an end-to-end PDF-to-structured-text workflow for reproducible OCR inference.
+
+* **[GitHub Repository](https://github.com/EntityEbisu/vlm-ocr-api)**
+
+---
 
 #### **Motorbike Detection with YOLOv8 & Streamlit**
 
-_Technologies:_ `Python` `Streamlit` `Ultralytics (YOLOv8)` `OpenCV` `NumPy`
-`Git` `Roboflow`
+*Technologies:* `Python` `Streamlit` `YOLOv8` `OpenCV` `NumPy` `Roboflow`
 
-Engineered and deployed an end-to-end motorbike detection application using
-Python and a custom-trained YOLOv8 model. This project demonstrates proficiency
-in the full machine learning project lifecycle, from data curation to cloud
-deployment.
-- **[Live Demo](https://prototype-motorbike-detection-ebisu.streamlit.app/)**
-- **[GitHub Repository](https://github.com/EntityEbisu/motorbike_detection)**
+Engineered and deployed an end-to-end motorbike detection application using a custom-trained YOLOv8 model, demonstrating the complete ML lifecycle from data preparation to model deployment.
+
+* **[Live Demo](https://prototype-motorbike-detection-ebisu.streamlit.app/)**
+* **[GitHub Repository](https://github.com/EntityEbisu/motorbike_detection)**
+
+---
 
 #### **Animal Image Classification with Self-Structured CNN**
 
-_Technologies:_ `Python` `TensorFlow` `Keras` `NumPy` `Matplotlib`
+*Technologies:* `Python` `TensorFlow` `Keras` `NumPy` `Matplotlib`
 
-Developed a Convolutional Neural Network (CNN) from scratch for image
-classification, achieving 79% training and 74% validation accuracy on a dataset
-of 6 animal classes. This project deepened my understanding of deep learning
-architectures and hyperparameter tuning.
+Developed a CNN from scratch for multi-class image classification, achieving **79% training accuracy** and **74% validation accuracy** across 6 animal classes while strengthening deep learning architecture and optimization knowledge.
 
-- **[GitHub Repository](https://github.com/EntityEbisu/cnn_from_scratch_image_classification)**
-
-#### **Interactive Data Dashboard: mtcars EDA (R Shiny)**
-
-_Technologies:_ `R` `Shiny` `tidyverse (ggplot2, dplyr)` `corrplot`
-
-Built an interactive web application for exploratory data analysis (EDA) using
-the R Shiny framework. The dashboard allows users to dynamically visualize data
-with histograms, box plots, scatter plots, and correlograms.
-
-- **[Live Demo](https://entityebisu.shinyapps.io/Data_Exploration_Mtcars_with_R_Shiny/)**
-- **[GitHub Repository](https://github.com/EntityEbisu/shiny-mtcars-data-dashboard)**
+* **[GitHub Repository](https://github.com/EntityEbisu/cnn_from_scratch_image_classification)**
 
 ---
 
@@ -122,16 +91,16 @@ with histograms, box plots, scatter plots, and correlograms.
 
 <div align="center">
 
-| Category | Skills |
-|---|---|
-| Languages | Python, SQL, JavaScript, R |
-| Machine Learning | PyTorch, TensorFlow, Scikit-learn |
-| Computer Vision | OpenCV, YOLOv8 |
-| NLP/LLM | Transformers, Hugging Face |
-| Backend | FastAPI, Flask |
-| Data Engineering | PostgreSQL, MongoDB, Pandas |
-| DevOps | Docker, Kubernetes, Linux |
-| Deployment | Streamlit, Shiny |
+| Category         | Skills                                |
+| ---------------- | ------------------------------------- |
+| Languages        | `Python` `SQL` `JavaScript` `R`       |
+| Machine Learning | `PyTorch` `TensorFlow` `Scikit-learn` |
+| Computer Vision  | `OpenCV` `YOLOv8`                     |
+| NLP / LLM        | `Transformers` `Hugging Face` `RAG`   |
+| Backend          | `FastAPI` `Flask`                     |
+| Data Engineering | `PostgreSQL` `MongoDB` `Pandas`       |
+| DevOps           | `Docker` `Kubernetes` `Linux`         |
+| Deployment       | `Streamlit` `Shiny`                   |
 
 </div>
 
@@ -141,27 +110,21 @@ with histograms, box plots, scatter plots, and correlograms.
 
 #### **Bachelor's in Artificial Intelligence - Information Technology**
 
-_FPT University | 2021 - Expected July 2026_
+*FPT University | 2021 - Expected July 2026*
 
-- Awarded a 30% scholarship for the full program.
-- Current GPA: 3.0
+* Awarded a 30% scholarship for the full program
+* Current GPA: 3.0
 
 ---
 
 ### 🏆 Certificates
 
-- **Coursera Specialization: UC San Diego Big Data** -
-  [View](https://www.coursera.org/account/accomplishments/specialization/U5XB6REQAI8M)
-- **Coursera: IBM Data Engineering Capstone Project** -
-  [View](https://www.coursera.org/account/accomplishments/verify/5OW8NKIT56GG)
-- **Coursera: IBM Introduction to Containers w/ Docker, Kubernetes &
-  OpenShift** -
-  [View](https://coursera.org/share/af455dfecdfb40de20b5baa16383eb6b)
-- **Coursera: IBM Django Application Development with SQL and Databases** -
-  [View](https://coursera.org/share/72038168d83eb012fee6e2dd7ee67399)
-- **Coursera Specialization: IBM Full Stack Software Developer** -
-  [View](https://www.coursera.org/account/accomplishments/professional-cert/61173V0H9MMN)
-- **British Council EnglishScore: C1-Advanced (585/599)**
+* **UC San Diego Big Data Specialization** — [View](https://www.coursera.org/account/accomplishments/specialization/U5XB6REQAI8M)
+* **IBM Data Engineering Capstone Project** — [View](https://www.coursera.org/account/accomplishments/verify/5OW8NKIT56GG)
+* **IBM Introduction to Containers with Docker, Kubernetes & OpenShift** — [View](https://coursera.org/share/af455dfecdfb40de20b5baa16383eb6b)
+* **IBM Django Application Development with SQL and Databases** — [View](https://coursera.org/share/72038168d83eb012fee6e2dd7ee67399)
+* **IBM Full Stack Software Developer Professional Certificate** — [View](https://www.coursera.org/account/accomplishments/professional-cert/61173V0H9MMN)
+* **British Council EnglishScore: C1 Advanced (585/599)**
 
 ---
 
@@ -170,9 +133,8 @@ _FPT University | 2021 - Expected July 2026_
 ### 📊 My GitHub Stats
 
 <a href="https://github.com/EntityEbisu"><img src="https://github-readme-stats.vercel.app/api?username=EntityEbisu&show_icons=true&theme=default" alt="GitHub Stats" /></a>
-<a href="https://github.com/EntityEbisu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EntityEbisu&theme=default" alt="GitHub Streak" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=EntityEbisu&color=brightgreen&style=flat-square&label=Profile+Views)
+<a href="https://github.com/EntityEbisu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EntityEbisu&theme=default" alt="GitHub Streak" /></a>
 
 </div>
 
@@ -180,9 +142,8 @@ _FPT University | 2021 - Expected July 2026_
 
 <div align="center">
 
-**"Artificial intelligence is the science of making machines do things that
-would require intelligence if done by men."** - Marvin Minsky
+**"Artificial intelligence is the science of making machines do things that would require intelligence if done by humans."** — Marvin Minsky
 
-_Thank you for visiting my profile!_ 😊
+*Thank you for visiting my profile!* 😊
 
 </div>
