@@ -107,13 +107,16 @@ with histograms, box plots, scatter plots, and correlograms.
 
 <div align="center">
 
-|       Category       | Skills                                                                        |
-| :------------------: | :---------------------------------------------------------------------------- |
-|    **Languages**     | `Python` `JavaScript` `R` `HTML` `CSS`                                        |
-|      **AI/ML**       | `TensorFlow` `Keras` `PyTorch` `Scikit-learn` `Ultralytics (YOLOv8)` `OpenCV` |
-| **Data & Databases** | `SQL` `MySQL` `PostgreSQL` `MongoDB` `Pandas` `NumPy` `Matplotlib` `Seaborn`  |
-|      **DevOps**      | `Docker` `Kubernetes` `Git` `GitHub`                                          |
-|    **Frameworks**    | `FastAPI` `Flask` `Streamlit` `R Shiny`                                         |
+| Category | Skills |
+|---|---|
+| Languages | Python, SQL, JavaScript, R |
+| Machine Learning | PyTorch, TensorFlow, Scikit-learn |
+| Computer Vision | OpenCV, YOLOv8 |
+| NLP/LLM | Transformers, Hugging Face |
+| Backend | FastAPI, Flask |
+| Data Engineering | PostgreSQL, MongoDB, Pandas |
+| DevOps | Docker, Kubernetes, Linux |
+| Deployment | Streamlit, Shiny |
 
 </div>
 
