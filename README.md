@@ -56,6 +56,22 @@ _January 2024 - September 2024 (Remote)_
 
 ### 🚀 Projects
 
+#### **Agentic Conversational AI System for E-commerce Support**
+
+_Technologies:_ `FastAPI` `Python` `LLMs` `RAG` `ChromaDB` `HuggingFace Embeddings` `Streamlit` `SQLite` `Docker`
+
+Designed and built a modular conversational AI system simulating an e-commerce support assistant with deterministic agent routing, multi-turn memory, and retrieval-augmented generation (RAG). Implemented structured order verification workflows, document-grounded question answering, session persistence, and observability pipelines with production-oriented architecture for scalability and deployment.
+
+Key features:
+- Built a deterministic agent workflow using state-machine-based slot collection and validation
+- Implemented RAG pipeline with document chunking, embeddings, vector retrieval, and grounded generation
+- Developed FastAPI streaming APIs and Streamlit monitoring dashboard
+- Integrated SQLite-based conversation persistence and structured observability logging
+- Designed extensible deployment strategy with Docker and CI/CD readiness
+
+- **[GitHub Repository](https://github.com/EntityEbisu/ai-agent-system)**
+- **[Demo Video (FYI: It is in Vietnamese)](https://drive.google.com/file/d/1W2dSLgPNfV5QncPiIsaLtiA7A6l-DTyS/view?usp=sharing)**
+
 #### **VLM-Based Multilingual OCR Inference System**
 
 _Technologies:_ `PyTorch` `Transformers` `FastAPI` `pypdfium2` `Pillow`
