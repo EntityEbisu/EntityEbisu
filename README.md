@@ -34,7 +34,7 @@
 * Evaluated models on Character Error Rate (CER), inference latency, and VRAM usage
 * Prepared technical reports to support model selection and internal readiness for future projects
 
-#### **Image Data Processing Collaborator at INFINIQ Vietnam Co., Ltd & TEKTRA TECHNOLOGY & TRADING**
+#### **Image Data Processing Collaborator at INFINIQ Vietnam Co., Ltd **and** TEKTRA TECHNOLOGY & TRADING**
 
 *January 2024 - September 2024 (Remote)*
 
