@@ -29,16 +29,17 @@
 
 *December 2025 - April 2026*
 
-* Processed and prepared diverse datasets for AI training workflows
-* Ensured annotation quality and structured data integrity for model development
-* Supported data preparation pipelines for intelligent automation systems
+* Conducted benchmarking of Vision-Language Models for multilingual OCR and document understanding
+* Designed a weighted scoring method to select models suitable for deployment constraints
+* Evaluated models on Character Error Rate (CER), inference latency, and VRAM usage
+* Prepared technical reports to support model selection and internal readiness for future projects
 
 #### **Image Data Processing Collaborator at INFINIQ Vietnam Co., Ltd & TEKTRA TECHNOLOGY & TRADING**
 
 *January 2024 - September 2024 (Remote)*
 
-* Performed 2D/3D object annotation for computer vision datasets
-* Refined AI-generated labels to improve dataset quality and consistency
+* Performed detailed 2D and 3D object segmenting, drawing and labeling for approximately 22000 files, supporting computer vision and AI model development
+* Critically reviewed and refined AI-generated bounding boxes to ensure high accuracy and data integrity
 * Contributed to real-world traffic scene datasets involving vehicles, pedestrians, and obstacles
 
 ---
