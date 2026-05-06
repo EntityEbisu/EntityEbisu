@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:tminh193.bil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.topcv.vn/xem-cv/UV9QV1cOCFNQXwBTBFFWCFAHCQJbBgFWAgRRVAf05d"><img src="https://img.shields.io/badge/Resume-33A350?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"/></a>
+<a href="https://www.topcv.vn/xem-cv/V1cFUlAGAVJVDg4HClIAWwxQUg1WVQBRB1gDAAd270" alt="Resume Badge"/></a>
 
 </div>
 
