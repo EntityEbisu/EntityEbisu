@@ -46,11 +46,11 @@
 
 ### 🚀 Featured Projects
 
-#### **Real-time VI-EN Speech Translation App (AppDichMobile)**
+#### **[Edge AI] Real-time VI-EN Speech Translation App (AppDichMobile)** — *Prototype Product*
 
 *Technologies:* `React Native` `Expo` `TypeScript` `ML Kit` `expo-speech-recognition` `react-native-tcp-socket` `Google Gemini`
 
-Built an Android app for real-time Vietnamese-English meeting translation with on-device speech recognition (ASR) and neural machine translation — no internet required for core functionality. The app supports P2P multi-device sessions via QR code pairing (Host/Join/Solo modes), live draft captions, and optional Gemini AI for post-session summarization and inline explanations. Published as a distributable APK. Selected for **VAIC 2026** (Vietnam AI Challenge — AI Singapore track).
+An **Edge AI** Android prototype for real-time Vietnamese-English meeting translation — speech recognition (ASR) and neural machine translation run entirely **on-device** with no internet required. Supports P2P multi-device sessions via QR code pairing (Host/Join/Solo modes), live draft captions, and optional Gemini AI for post-session summarization and inline explanations. Published as a distributable APK. Selected for **VAIC 2026** (Vietnam AI Challenge — AI Singapore track).
 
 * **[GitHub Repository](https://github.com/EntityEbisu/sea-vietnam-vaic)**
 * **[Download APK](https://expo.dev/artifacts/eas/7Ze1h-rm8cqCMlizEtUtkLkcSJR6Jo_6KLRhLV98p6I.apk)**
@@ -99,7 +99,7 @@ Engineered and deployed an end-to-end motorbike detection application using a cu
 | Machine Learning | `PyTorch` `TensorFlow` `Scikit-learn` |
 | Computer Vision  | `OpenCV` `YOLOv8` `RF-DETR`          |
 | NLP / LLM        | `Transformers` `Hugging Face` `RAG`   |
-| Mobile AI        | `React Native` `Expo` `ML Kit` `On-device ML` |
+| Mobile AI / Edge AI | `React Native` `Expo` `ML Kit` `On-device ML` |
 | Backend          | `FastAPI` `Flask`                     |
 | Data Engineering | `PostgreSQL` `MongoDB` `Pandas`       |
 | DevOps           | `Docker` `Kubernetes` `Linux`         |
