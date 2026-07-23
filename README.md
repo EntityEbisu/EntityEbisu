@@ -34,7 +34,7 @@
 * Evaluated models on Character Error Rate (CER), inference latency, and VRAM usage
 * Prepared technical reports to support model selection and internal readiness for future projects
 
-#### **Image Data Processing Collaborator at INFINIQ Vietnam Co., Ltd **and** TEKTRA TECHNOLOGY & TRADING**
+#### **Image Data Processing Collaborator at INFINIQ Vietnam Co., Ltd and TEKTRA TECHNOLOGY & TRADING**
 
 *January 2024 - September 2024 (Remote)*
 
@@ -45,6 +45,17 @@
 ---
 
 ### 🚀 Featured Projects
+
+#### **Real-time VI-EN Speech Translation App (AppDichMobile)**
+
+*Technologies:* `React Native` `Expo` `TypeScript` `ML Kit` `expo-speech-recognition` `react-native-tcp-socket` `Google Gemini`
+
+Built an Android app for real-time Vietnamese-English meeting translation with on-device speech recognition (ASR) and neural machine translation — no internet required for core functionality. The app supports P2P multi-device sessions via QR code pairing (Host/Join/Solo modes), live draft captions, and optional Gemini AI for post-session summarization and inline explanations. Published as a distributable APK. Selected for **VAIC 2026** (Vietnam AI Challenge — AI Singapore track).
+
+* **[GitHub Repository](https://github.com/EntityEbisu/sea-vietnam-vaic)**
+* **[Download APK](https://expo.dev/artifacts/eas/7Ze1h-rm8cqCMlizEtUtkLkcSJR6Jo_6KLRhLV98p6I.apk)**
+
+---
 
 #### **Agentic Conversational AI System for E-commerce Support**
 
@@ -78,16 +89,6 @@ Engineered and deployed an end-to-end motorbike detection application using a cu
 
 ---
 
-#### **Animal Image Classification with Self-Structured CNN**
-
-*Technologies:* `Python` `TensorFlow` `Keras` `NumPy` `Matplotlib`
-
-Developed a CNN from scratch for multi-class image classification, achieving **79% training accuracy** and **74% validation accuracy** across 6 animal classes while strengthening deep learning architecture and optimization knowledge.
-
-* **[GitHub Repository](https://github.com/EntityEbisu/cnn_from_scratch_image_classification)**
-
----
-
 ### 🛠️ Skills & Technologies
 
 <div align="center">
@@ -96,8 +97,9 @@ Developed a CNN from scratch for multi-class image classification, achieving **7
 | ---------------- | ------------------------------------- |
 | Languages        | `Python` `SQL` `JavaScript` `R`       |
 | Machine Learning | `PyTorch` `TensorFlow` `Scikit-learn` |
-| Computer Vision  | `OpenCV` `YOLOv8`                     |
+| Computer Vision  | `OpenCV` `YOLOv8` `RF-DETR`          |
 | NLP / LLM        | `Transformers` `Hugging Face` `RAG`   |
+| Mobile AI        | `React Native` `Expo` `ML Kit` `On-device ML` |
 | Backend          | `FastAPI` `Flask`                     |
 | Data Engineering | `PostgreSQL` `MongoDB` `Pandas`       |
 | DevOps           | `Docker` `Kubernetes` `Linux`         |
