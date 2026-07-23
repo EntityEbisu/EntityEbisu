@@ -46,11 +46,11 @@
 
 ### 🚀 Featured Projects
 
-#### **[Edge AI] Real-time VI-EN Speech Translation App (AppDichMobile)** — *Prototype Product*
+#### **[Edge AI] Real-time VI-EN Speech Translation App (AppDichMobile)**
 
 *Technologies:* `React Native` `Expo` `TypeScript` `ML Kit` `expo-speech-recognition` `react-native-tcp-socket` `Google Gemini`
 
-An **Edge AI** Android prototype for real-time Vietnamese-English meeting translation — speech recognition (ASR) and neural machine translation run entirely **on-device** with no internet required. Supports P2P multi-device sessions via QR code pairing (Host/Join/Solo modes), live draft captions, and optional Gemini AI for post-session summarization and inline explanations. Published as a distributable APK. Selected for **VAIC 2026** (Vietnam AI Challenge — AI Singapore track).
+An **Edge AI** Android application for real-time Vietnamese-English meeting translation — speech recognition (ASR) and neural machine translation run entirely **on-device** with no internet required. Supports P2P multi-device sessions via QR code pairing (Host/Join/Solo modes), live draft captions, and optional Gemini AI for post-session summarization and inline explanations. Published as a distributable APK. Selected for **VAIC 2026** (Vietnam AI Challenge — AI Singapore track).
 
 * **[GitHub Repository](https://github.com/EntityEbisu/sea-vietnam-vaic)**
 * **[Download APK](https://expo.dev/artifacts/eas/7Ze1h-rm8cqCMlizEtUtkLkcSJR6Jo_6KLRhLV98p6I.apk)**
