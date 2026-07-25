@@ -25,6 +25,29 @@
 
 ### 💼 Work Experience
 
+---
+
+#### **Back-End AI Engineer Intern at FlyRank AI**
+
+*June 2026 to Now*
+
+* Completing a structured internship with tracks in AI Fluency and Back-End AI Engineering
+* Building foundational skills in CRUD API development, database integration, and containerization
+* Applying AI tools methodically as collaborative engineering partners throughout the development process
+
+---
+
+#### **Generative AI Collaborator at TPBank**
+
+*May 2026 to July 2026*
+
+* Tested and evaluated the internal AI system
+* Investigated response failures and edge cases to identify opportunities for improving prompt behavior and overall system performance.
+* Researched, benchmarked, and evaluated alternative AI models and workflows to assess their feasibility and potential benefits for existing solutions.
+* Consolidated evaluation results and technical findings into recommendations to support decision-making by senior engineers.
+
+---
+
 #### **AI Engineer Intern at FPT Software**
 
 *December 2025 - April 2026*
@@ -33,6 +56,8 @@
 * Designed a weighted scoring method to select models suitable for deployment constraints
 * Evaluated models on Character Error Rate (CER), inference latency, and VRAM usage
 * Prepared technical reports to support model selection and internal readiness for future projects
+
+---
 
 #### **Image Data Processing Collaborator at INFINIQ Vietnam Co., Ltd and TEKTRA TECHNOLOGY & TRADING**
 
