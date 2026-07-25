@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/minh-nguyễn-trọng-75a324246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://www.kaggle.com/ebisua"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a>
     <a href="mailto:tminh193.bil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-    <a href="https://www.topcv.vn/xem-cv/V1cFUlAGAVJVDg4HClIAWwxQUg1WVQBRB1gDAAd270"><img src="https://img.shields.io/badge/My%20Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"/></a>
+    <a href="https://drive.google.com/file/d/1Su07XW0X0IfDI29RSs2R-Y1AtZjE91-n/view?usp=sharing"><img src="https://img.shields.io/badge/My%20Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"/></a>
 
 </div>
 
