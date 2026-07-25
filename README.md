@@ -25,8 +25,6 @@
 
 ### 💼 Work Experience
 
----
-
 #### **Back-End AI Engineer Intern at FlyRank AI**
 
 *June 2026 to Now*
